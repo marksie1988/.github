@@ -8,10 +8,10 @@ assignees: ''
 
 <!--- Provide a general summary of the issue in the Title above. -->
 
-## Expected behavior
+## Expected behaviour
 <!--- Tell us what should happen. -->
 
-## Current behavior
+## Current behaviour
 <!--- Tell us what happens instead of the expected behavior. -->
 
 ## Screenshot
@@ -45,7 +45,7 @@ assignees: ''
 
 ## Checklist
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
-- [ ] I searched the current issues and the issue is not known.
-- [ ] I searched the troubleshooting and there's no fix available for this bug.
-- [ ] I searched on Google, YouTube, Reddit and there's no fix.
-- [ ] I am mostly sure that the problem is related to the code and isn't my fault.
+- [] I searched the current issues and the issue is not known.
+- [] I searched the troubleshooting and there's no fix available for this bug.
+- [] I searched on Google, YouTube, Reddit and there's no fix.
+- [] I am mostly sure that the problem is related to the code and isn't my fault.
