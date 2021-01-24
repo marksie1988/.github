@@ -8,10 +8,10 @@ assignees: ''
 
 <!--- Provide a general summary of the feature in the Title above. -->
 
-## Expected behavior
+## Expected behaviour
 <!--- Tell us how it should work. -->
 
-## Current behavior
+## Current behaviour
 <!--- Explain the difference from current behavior. -->
 
 ## Screenshot
@@ -27,5 +27,5 @@ assignees: ''
 
 ## Checklist
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
-- [ ] I searched the current issues and the feature is not known.
-- [ ] I am mostly sure that the feature will bring more good than bad.
+- [] I searched the current issues and the feature is not known.
+- [] I am mostly sure that the feature will bring more good than bad.
